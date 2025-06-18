@@ -6,13 +6,13 @@
 
 ## Initialize the bot
 ### Use the following command to initialize the bot:
-
+```bash
 npm init -y & npm install discord.js dotenv
-
+```
 ### Run the bot
-
+```bash
 node index.js
-
+```
 ## How to get Discord Bot Token
 ### 1. Go to https://discord.com/developers/applications
 ### 2. Click on "New Application"
